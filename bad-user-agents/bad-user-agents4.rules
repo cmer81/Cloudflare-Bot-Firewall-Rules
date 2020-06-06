@@ -1,0 +1,85 @@
+(http.user_agent contains "LWP::Simple") or
+(http.user_agent contains "lwp-trivial") or
+(http.user_agent contains "Magnet") or
+(http.user_agent contains "Mag-Net") or
+(http.user_agent contains "magpie-crawler") or
+(http.user_agent contains "Mail.RU_Bot") or
+(http.user_agent contains "Majestic12") or
+(http.user_agent contains "Majestic-SEO") or
+(http.user_agent contains "Majestic SEO") or
+(http.user_agent contains "MarkMonitor") or
+(http.user_agent contains "MarkWatch") or
+(http.user_agent contains "Masscan") or
+(http.user_agent contains "Mass Downloader") or
+(http.user_agent contains "Mata Hari") or
+(http.user_agent contains "MauiBot") or
+(http.user_agent contains "Mb2345Browser") or
+(http.user_agent contains "meanpathbot") or
+(http.user_agent contains "Meanpathbot") or
+(http.user_agent contains "MeanPath Bot") or
+(http.user_agent contains "Mediatoolkitbot") or
+(http.user_agent contains "mediawords") or
+(http.user_agent contains "MegaIndex.ru") or
+(http.user_agent contains "Metauri") or
+(http.user_agent contains "MFC_Tear_Sample") or
+(http.user_agent contains "MicroMessenger") or
+(http.user_agent contains "Microsoft Data Access") or
+(http.user_agent contains "Microsoft URL Control") or
+(http.user_agent contains "MIDown tool") or
+(http.user_agent contains "MIIxpc") or
+(http.user_agent contains "Mister PiX") or
+(http.user_agent contains "MJ12bot") or
+(http.user_agent contains "Mojeek") or
+(http.user_agent contains "Mojolicious") or
+(http.user_agent contains "Morfeus Fucking Scanner") or
+(http.user_agent contains "MQQBrowser") or
+(http.user_agent contains "Mr.4x3") or
+(http.user_agent contains "MSFrontPage") or
+(http.user_agent contains "MSIECrawler") or
+(http.user_agent contains "Msrabot") or
+(http.user_agent contains "muhstik-scan") or
+(http.user_agent contains "Musobot") or
+(http.user_agent contains "Name Intelligence") or
+(http.user_agent contains "Nameprotect") or
+(http.user_agent contains "Navroad") or
+(http.user_agent contains "NearSite") or
+(http.user_agent contains "Needle") or
+(http.user_agent contains "Nessus") or
+(http.user_agent contains "NetAnts") or
+(http.user_agent contains "Netcraft") or
+(http.user_agent contains "netEstate NE Crawler") or
+(http.user_agent contains "NetLyzer") or
+(http.user_agent contains "NetMechanic") or
+(http.user_agent contains "NetSpider") or
+(http.user_agent contains "Nettrack") or
+(http.user_agent contains "Net Vampire") or
+(http.user_agent contains "Netvibes") or
+(http.user_agent contains "NetZIP") or
+(http.user_agent contains "NextGenSearchBot") or
+(http.user_agent contains "Nibbler") or
+(http.user_agent contains "NICErsPRO") or
+(http.user_agent contains "Niki-bot") or
+(http.user_agent contains "Nikto") or
+(http.user_agent contains "NimbleCrawler") or
+(http.user_agent contains "Nimbostratus") or
+(http.user_agent contains "Ninja") or
+(http.user_agent contains "Nmap") or
+(http.user_agent contains "NPbot") or
+(http.user_agent contains "Nutch") or
+(http.user_agent contains "oBot") or
+(http.user_agent contains "Octopus") or
+(http.user_agent contains "Offline Explorer") or
+(http.user_agent contains "Offline Navigator") or
+(http.user_agent contains "OnCrawl") or
+(http.user_agent contains "Openfind") or
+(http.user_agent contains "OpenLinkProfiler") or
+(http.user_agent contains "Openvas") or
+(http.user_agent contains "OpenVAS") or
+(http.user_agent contains "OPPO A33") or
+(http.user_agent contains "OrangeBot") or
+(http.user_agent contains "OrangeSpider") or
+(http.user_agent contains "OutclicksBot") or
+(http.user_agent contains "OutfoxBot") or
+(http.user_agent contains "PageAnalyzer") or
+(http.user_agent contains "Page Analyzer") or
+(http.user_agent contains "PageGrabber")

@@ -1,0 +1,63 @@
+(http.user_agent contains "WebCopier") or
+(http.user_agent contains "WEBDAV") or
+(http.user_agent contains "WebEnhancer") or
+(http.user_agent contains "Web Enhancer") or
+(http.user_agent contains "WebFetch") or
+(http.user_agent contains "Web Fetch") or
+(http.user_agent contains "WebFuck") or
+(http.user_agent contains "Web Fuck") or
+(http.user_agent contains "WebGo IS") or
+(http.user_agent contains "WebImageCollector") or
+(http.user_agent contains "WebLeacher") or
+(http.user_agent contains "WebmasterWorldForumBot") or
+(http.user_agent contains "webmeup-crawler") or
+(http.user_agent contains "WebPix") or
+(http.user_agent contains "Web Pix") or
+(http.user_agent contains "WebReaper") or
+(http.user_agent contains "WebSauger") or
+(http.user_agent contains "Web Sauger") or
+(http.user_agent contains "Webshag") or
+(http.user_agent contains "WebsiteExtractor") or
+(http.user_agent contains "WebsiteQuester") or
+(http.user_agent contains "Website Quester") or
+(http.user_agent contains "Webster") or
+(http.user_agent contains "WebStripper") or
+(http.user_agent contains "WebSucker") or
+(http.user_agent contains "Web Sucker") or
+(http.user_agent contains "WebWhacker") or
+(http.user_agent contains "WebZIP") or
+(http.user_agent contains "WeSEE") or
+(http.user_agent contains "Whack") or
+(http.user_agent contains "Whacker") or
+(http.user_agent contains "Whatweb") or
+(http.user_agent contains "Who.is Bot") or
+(http.user_agent contains "Widow") or
+(http.user_agent contains "WinHTTrack") or
+(http.user_agent contains "WiseGuys Robot") or
+(http.user_agent contains "WISENutbot") or
+(http.user_agent contains "Wonderbot") or
+(http.user_agent contains "Woobot") or
+(http.user_agent contains "Wotbox") or
+(http.user_agent contains "Wprecon") or
+(http.user_agent contains "WPScan") or
+(http.user_agent contains "WWW-Collector-E") or
+(http.user_agent contains "WWW-Mechanize") or
+(http.user_agent contains "WWW::Mechanize") or
+(http.user_agent contains "WWWOFFLE") or
+(http.user_agent contains "x09Mozilla") or
+(http.user_agent contains "x22Mozilla") or
+(http.user_agent contains "Xaldon_WebSpider") or
+(http.user_agent contains "Xaldon WebSpider") or
+(http.user_agent contains "Xenu") or
+(http.user_agent contains "xpymep1.exe") or
+(http.user_agent contains "YoudaoBot") or
+(http.user_agent contains "Zade") or
+(http.user_agent contains "Zauba") or
+(http.user_agent contains "zauba.io") or
+(http.user_agent contains "Zermelo") or
+(http.user_agent contains "Zeus") or
+(http.user_agent contains "zgrab") or
+(http.user_agent contains "Zitebot") or
+(http.user_agent contains "ZmEu") or
+(http.user_agent contains "ZumBot") or
+(http.user_agent contains "ZyBorg")

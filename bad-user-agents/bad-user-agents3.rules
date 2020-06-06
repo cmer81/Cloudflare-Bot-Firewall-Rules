@@ -1,0 +1,85 @@
+(http.user_agent contains "Go!Zilla") or
+(http.user_agent contains "Grabber") or
+(http.user_agent contains "GrabNet") or
+(http.user_agent contains "Grafula") or
+(http.user_agent contains "GrapeFX") or
+(http.user_agent contains "GrapeshotCrawler") or
+(http.user_agent contains "GridBot") or
+(http.user_agent contains "GT::WWW") or
+(http.user_agent contains "Haansoft") or
+(http.user_agent contains "HaosouSpider") or
+(http.user_agent contains "Harvest") or
+(http.user_agent contains "Havij") or
+(http.user_agent contains "HEADMasterSEO") or
+(http.user_agent contains "heritrix") or
+(http.user_agent contains "Heritrix") or
+(http.user_agent contains "Hloader") or
+(http.user_agent contains "HMView") or
+(http.user_agent contains "HTMLparser") or
+(http.user_agent contains "HTTP::Lite") or
+(http.user_agent contains "HTTrack") or
+(http.user_agent contains "Humanlinks") or
+(http.user_agent contains "HybridBot") or
+(http.user_agent contains "Iblog") or
+(http.user_agent contains "IDBot") or
+(http.user_agent contains "Id-search") or
+(http.user_agent contains "IlseBot") or
+(http.user_agent contains "Image Fetch") or
+(http.user_agent contains "Image Sucker") or
+(http.user_agent contains "IndeedBot") or
+(http.user_agent contains "Indy Library") or
+(http.user_agent contains "InfoNaviRobot") or
+(http.user_agent contains "InfoTekies") or
+(http.user_agent contains "instabid") or
+(http.user_agent contains "Intelliseek") or
+(http.user_agent contains "InterGET") or
+(http.user_agent contains "Internet Ninja") or
+(http.user_agent contains "InternetSeer") or
+(http.user_agent contains "internetVista monitor") or
+(http.user_agent contains "ips-agent") or
+(http.user_agent contains "Iria") or
+(http.user_agent contains "IRLbot") or
+(http.user_agent contains "Iskanie") or
+(http.user_agent contains "IstellaBot") or
+(http.user_agent contains "JamesBOT") or
+(http.user_agent contains "Jbrofuzz") or
+(http.user_agent contains "JennyBot") or
+(http.user_agent contains "JetCar") or
+(http.user_agent contains "Jetty") or
+(http.user_agent contains "JikeSpider") or
+(http.user_agent contains "JOC Web Spider") or
+(http.user_agent contains "Joomla") or
+(http.user_agent contains "Jorgee") or
+(http.user_agent contains "JustView") or
+(http.user_agent contains "Jyxobot") or
+(http.user_agent contains "Kenjin Spider") or
+(http.user_agent contains "Keyword Density") or
+(http.user_agent contains "Kinza") or
+(http.user_agent contains "Kozmosbot") or
+(http.user_agent contains "Lanshanbot") or
+(http.user_agent contains "Larbin") or
+(http.user_agent contains "LeechFTP") or
+(http.user_agent contains "LeechGet") or
+(http.user_agent contains "LexiBot") or
+(http.user_agent contains "Lftp") or
+(http.user_agent contains "LibWeb") or
+(http.user_agent contains "Libwhisker") or
+(http.user_agent contains "LieBaoFast") or
+(http.user_agent contains "Lightspeedsystems") or
+(http.user_agent contains "Likse") or
+(http.user_agent contains "Linkdexbot") or
+(http.user_agent contains "LinkextractorPro") or
+(http.user_agent contains "LinkpadBot") or
+(http.user_agent contains "LinkScan") or
+(http.user_agent contains "LinksManager") or
+(http.user_agent contains "LinkWalker") or
+(http.user_agent contains "LinqiaMetadataDownloaderBot") or
+(http.user_agent contains "LinqiaRSSBot") or
+(http.user_agent contains "LinqiaScrapeBot") or
+(http.user_agent contains "Lipperhey") or
+(http.user_agent contains "Lipperhey Spider") or
+(http.user_agent contains "Litemage_walker") or
+(http.user_agent contains "Lmspider") or
+(http.user_agent contains "LNSpiderguy") or
+(http.user_agent contains "Ltx71") or
+(http.user_agent contains "lwp-request")

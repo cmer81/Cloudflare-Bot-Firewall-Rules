@@ -1,0 +1,85 @@
+(http.user_agent contains "Copyscape") or
+(http.user_agent contains "Cosmos") or
+(http.user_agent contains "Craftbot") or
+(http.user_agent contains "crawler4j") or
+(http.user_agent contains "crawler.feedback") or
+(http.user_agent contains "crawl.sogou.com") or
+(http.user_agent contains "CrazyWebCrawler") or
+(http.user_agent contains "Crescent") or
+(http.user_agent contains "CrunchBot") or
+(http.user_agent contains "CSHttp") or
+(http.user_agent contains "Curious") or
+(http.user_agent contains "Custo") or
+(http.user_agent contains "DatabaseDriverMysqli") or
+(http.user_agent contains "DataCha0s") or
+(http.user_agent contains "DBLBot") or
+(http.user_agent contains "demandbase-bot") or
+(http.user_agent contains "Demon") or
+(http.user_agent contains "Deusu") or
+(http.user_agent contains "Devil") or
+(http.user_agent contains "Digincore") or
+(http.user_agent contains "DigitalPebble") or
+(http.user_agent contains "DIIbot") or
+(http.user_agent contains "Dirbuster") or
+(http.user_agent contains "Disco") or
+(http.user_agent contains "Discobot") or
+(http.user_agent contains "Discoverybot") or
+(http.user_agent contains "Dispatch") or
+(http.user_agent contains "DittoSpyder") or
+(http.user_agent contains "DnyzBot") or
+(http.user_agent contains "DomainAppender") or
+(http.user_agent contains "DomainCrawler") or
+(http.user_agent contains "DomainSigmaCrawler") or
+(http.user_agent contains "Domains Project") or
+(http.user_agent contains "domainsproject.org") or
+(http.user_agent contains "DomainStatsBot") or
+(http.user_agent contains "Dotbot") or
+(http.user_agent contains "Download Wonder") or
+(http.user_agent contains "Dragonfly") or
+(http.user_agent contains "Drip") or
+(http.user_agent contains "DSearch") or
+(http.user_agent contains "DTS Agent") or
+(http.user_agent contains "EasyDL") or
+(http.user_agent contains "Ebingbong") or
+(http.user_agent contains "eCatch") or
+(http.user_agent contains "ECCP/1.0") or
+(http.user_agent contains "Ecxi") or
+(http.user_agent contains "EirGrabber") or
+(http.user_agent contains "EMail Siphon") or
+(http.user_agent contains "EMail Wolf") or
+(http.user_agent contains "EroCrawler") or
+(http.user_agent contains "evc-batch") or
+(http.user_agent contains "Evil") or
+(http.user_agent contains "Exabot") or
+(http.user_agent contains "Express WebPictures") or
+(http.user_agent contains "ExtLinksBot") or
+(http.user_agent contains "Extractor") or
+(http.user_agent contains "ExtractorPro") or
+(http.user_agent contains "Extreme Picture Finder") or
+(http.user_agent contains "EyeNetIE") or
+(http.user_agent contains "Ezooms") or
+(http.user_agent contains "facebookscraper") or
+(http.user_agent contains "FDM") or
+(http.user_agent contains "FemtosearchBot") or
+(http.user_agent contains "FHscan") or
+(http.user_agent contains "Fimap") or
+(http.user_agent contains "Firefox/7.0") or
+(http.user_agent contains "FlashGet") or
+(http.user_agent contains "Flunky") or
+(http.user_agent contains "Foobot") or
+(http.user_agent contains "Freeuploader") or
+(http.user_agent contains "FrontPage") or
+(http.user_agent contains "FyberSpider") or
+(http.user_agent contains "Fyrebot") or
+(http.user_agent contains "GalaxyBot") or
+(http.user_agent contains "Genieo") or
+(http.user_agent contains "GermCrawler") or
+(http.user_agent contains "Getintent") or
+(http.user_agent contains "GetRight") or
+(http.user_agent contains "GetWeb") or
+(http.user_agent contains "Gigablast") or
+(http.user_agent contains "Gigabot") or
+(http.user_agent contains "G-i-g-a-b-o-t") or
+(http.user_agent contains "Go-Ahead-Got-It") or
+(http.user_agent contains "Gotit") or
+(http.user_agent contains "GoZilla")
