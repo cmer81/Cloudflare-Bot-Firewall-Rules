@@ -60,4 +60,5 @@
 (http.user_agent contains "Zitebot") or
 (http.user_agent contains "ZmEu") or
 (http.user_agent contains "ZumBot") or
-(http.user_agent contains "ZyBorg")
+(http.user_agent contains "ZyBorg") or
+(http.user_agent contains "curl")
